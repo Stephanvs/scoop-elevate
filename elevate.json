@@ -10,13 +10,14 @@
   "architecture": {
       "64bit": {
           "url": "https://www.winability.com/files/Elevate11.zip",
-          "bin": "elevate64.exe"
+          "bin": "elevate64.exe",
+          "hash": "146186ad58ff9bd55bab7aba5f573a2f6316841221d5557bbb1265e98e4f696b"
       },
       "32bit": {
           "url": "https://www.winability.com/files/Elevate11.zip",
-          "bin": "elevate.exe"
+          "bin": "elevate.exe",
+          "hash": "146186ad58ff9bd55bab7aba5f573a2f6316841221d5557bbb1265e98e4f696b"
       }
   },
-  "hash": "",
-  "bin": "elevate.exe",
+  "hash": "146186ad58ff9bd55bab7aba5f573a2f6316841221d5557bbb1265e98e4f696b",
 }
