@@ -10,12 +10,15 @@
   "architecture": {
       "64bit": {
           "url": "https://www.winability.com/files/Elevate11.zip",
-          "hash": "",
           "bin": "elevate64.exe"
+      },
+      "32bit": {
+          "url": "https://www.winability.com/files/Elevate11.zip",
+          "bin": "elevate.exe"
       }
+
   },
   "hash": "",
   "bin": "elevate.exe",
-  "extract_dir": "",
   "depends": ""
 }
