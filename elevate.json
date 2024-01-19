@@ -8,7 +8,7 @@
   },
   "url": "https://www.winability.com/files/Elevate11.zip",
   "hash": "146186ad58ff9bd55bab7aba5f573a2f6316841221d5557bbb1265e98e4f696b",
-  "bin:" [
+  "bin": [
       "elevate.exe",
       "elevate64.exe"
   ]
